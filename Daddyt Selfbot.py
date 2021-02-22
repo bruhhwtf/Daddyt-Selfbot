@@ -40,7 +40,7 @@ prefix = config.get('prefix')
 
 nitro_sniper = config.get('nitro_sniper')
 
-stream_url = "https://www.twitch.tv/maxyymusisontop"
+stream_url = "https://www.twitch.tv/maxyymuscc"
 tts_language = "en"
 
 start_time = datetime.datetime.utcnow()
