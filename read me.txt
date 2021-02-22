@@ -1,4 +1,4 @@
-: Type The Requirements Needed In "Config.json" After That Run "Daddyt Selfbot.py". :
+: Type The Requirements Needed In "Config.json" After That Run "Main.py". :
 
 : Now It Should Work, If You Need Any Help Dm me @ Պaxyymus#2013 : 
 
